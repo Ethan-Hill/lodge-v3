@@ -1,0 +1,19 @@
+{
+  "name": "vue-Nuxt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nuxt/http": "^0.5.10",
+    "nuxt": "^2.14.1"
+  }
+}
