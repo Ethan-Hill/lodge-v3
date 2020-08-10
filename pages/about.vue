@@ -1,20 +1,20 @@
 <template>
   <div>
     <Nav />
-    <Hero />
+    <about/>
   </div>
 </template>
 
 <script>
 
 import Nav from '../components/Navbar'
-import Hero from '../components/Hero'
+import about from '../components/about'
 
 export default {
   name: 'Home',
   components: {
     Nav,
-    Hero
+    about
   }
 }
 </script>
