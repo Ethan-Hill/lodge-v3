@@ -16,6 +16,9 @@
             <b-navbar-item class="navbar-item" href="/about">
                 About
             </b-navbar-item>
+            <b-navbar-item class="navbar-item" href="/staff">
+                Staff
+            </b-navbar-item>
         </template>
 
         <template slot="end" id="menu">
