@@ -107,7 +107,7 @@ export default {
           logo:
             'https://cdn.discordapp.com/avatars/212783568663871489/127407f3d719b02444e101c0de538e4e.webp?size=128',
           desc:
-            'One of the Founders of International Lodge Discord. I do a lot of things, But I mostly stream whatever i fell like! I was told to write something interesting here.',
+            'One of the Founders of International Lodge Discord.\n I do a lot of things, But I mostly stream whatever i fell like!\n I was told to write something interesting here.',
         },
         {
           id: '2',
@@ -116,7 +116,7 @@ export default {
           logo:
             'https://cdn.discordapp.com/avatars/413665927175864320/a_4b0fcf026cf8c191097bf9f7a267cd64.png?size=128',
           desc:
-            'One of the Founders of International Lodge Discord. I stream a lot on twitch.I am a discord designer and promoter.What was i ment to write here?',
+            'One of the Founders of International Lodge Discord.\n I stream a lot on twitch. \nI am a discord designer and promoter.',
         },
       ],
       Admins: [
@@ -127,7 +127,7 @@ export default {
           logo:
             'https://cdn.discordapp.com/avatars/382928087203184651/614af368d51feed67c7951bc1a031546.png?size=128',
           desc:
-            'An admin for the International Lodge Discord. I am a fullstack web dev and often stream this on my twitch. Hit me up if you need anything.',
+            'An admin for the International Lodge Discord.\n I am a fullstack web dev and often stream this on my twitch.\n Hit me up if you need anything.',
         },
         {
           id: '2',
@@ -136,27 +136,18 @@ export default {
           logo:
             'https://cdn.discordapp.com/avatars/482248970178002946/a_244ff291a09cfae253c9e07953979fd5.webp?size=128',
           desc:
-            'Have not Streamed yet. But starting on it.So you can call me a streamer. I am a 3D Modeller in games,So more into backend in games.',
+            'Have not Streamed yet but starting on it. \nSo you can call me a streamer.\n I am a 3D Modeller in games. \nSo more into backend in games.',
         },
       ],
       Mods: [
         {
           id: '1',
-          name: 'FishSticz',
-          role: 'Director',
+          name: 'Thequake4fun',
+          role: 'Mod',
           logo:
-            'https://cdn.discordapp.com/avatars/212783568663871489/127407f3d719b02444e101c0de538e4e.webp?size=128',
+            'https://cdn.discordapp.com/avatars/239441810555011077/6866cdae81a7127218c29ae7d6081ab7.png?size=128',
           desc:
-            'One of the Founders of International Lodge Discord. I do a lot of things, But I mostly stream whatever i fell like! I was told to write something interesting here.',
-        },
-        {
-          id: '2',
-          name: 'lol hooudini',
-          role: 'Director',
-          logo:
-            'https://cdn.discordapp.com/avatars/413665927175864320/a_4b0fcf026cf8c191097bf9f7a267cd64.png?size=128',
-          desc:
-            'One of the Founders of International Lodge Discord. I stream a lot on twitch. I am a discord designer and promoter.What was i ment to write here?',
+            'I Stream a lot on twitch. I like having fun. I dont take offensive.',
         },
       ],
      JrMods: [
@@ -167,16 +158,7 @@ export default {
           logo:
             'https://cdn.discordapp.com/avatars/393877783551410179/d9a47b7e55fa15de859f1e4c8a139792.png?size=128',
           desc:
-            'Everyone hates me, but I still love you all. So you can call me a simp, but I still love you all.',
-        },
-        {
-          id: '2',
-          name: 'Thequake4fun',
-          role: 'Mod',
-          logo:
-            'https://cdn.discordapp.com/avatars/239441810555011077/6866cdae81a7127218c29ae7d6081ab7.png?size=128',
-          desc:
-            'I Stream a lot on twitch. I like having fun. I dont take offensive.',
+            'Everyone hates me, but I still love you all.\n So you can call me a simp, but I still love you all.',
         },
       ],
     }
